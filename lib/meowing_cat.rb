@@ -9,4 +9,4 @@ maru.name = "Maru"
 puts maru.name
 meow = Cat.new
 maru.meow = "meow!"
-puts maru.meow
+STDOUT puts maru.meow
